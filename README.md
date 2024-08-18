@@ -11,4 +11,28 @@ In this exercise, you're going to practice adding CSS to an HTML file using all 
 - Does the `p` element have CSS added via the internal method?
 - Does the `button` element have CSS added via the inline method?
 
-#### START
+**This is bold text**
+
+*This is Italic text*
+
+~~This is mistaken text~~
+
+***All text is Important***
+
+<sup> This is the 10 power 6</sup>
+
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
